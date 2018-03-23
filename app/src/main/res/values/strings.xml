@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Photographic Memory Quiz</string>
+    <string name="title">Photographic Memory Quiz</string>
+    <string name="start">Start</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="your_answer">your answer</string>
+    <string name="right_answer">Right answer!</string>
+    <string name="wrong_answer">Wrong answer!</string>
+    <string name="score">Score:</string>
+    <string name="from">from</string>
+    <string name="cont">Continue</string>
+    <string name="remaining_time">Remaining time:</string>
+    <string name="instructions">You will see a picture for 10 seconds. Try to remember what\'s on the picture...</string>
+    <string name="question01">How many cats was on the picture?</string>
+    <string name="title01">Amusing performace in Venice</string>
+    <string name="answer01_1">none</string>
+    <string name="answer01_2">two</string>
+    <string name="answer01_3">three</string>
+    <string name="answer01_4">four</string>
+    <string name="answer_type01" translatable="false">rb</string>
+    <string name="right_answer01" translatable="false">3</string>
+    <string name="title02">Birdman</string>
+    <string name="question02">How many birds was on the picture?</string>
+    <string name="answer02_1">one</string>
+    <string name="answer02_2">three</string>
+    <string name="answer02_3">five</string>
+    <string name="answer02_4">four</string>
+    <string name="answer_type02" translatable="false">rb</string>
+    <string name="right_answer02" translatable="false">3</string>
+    <string name="title03">Grimms\' Fairy Tales</string>
+    <string name="question03">What color was deer\'s boots?</string>
+    <string name="answer03_1">black</string>
+    <string name="answer03_2">yellow</string>
+    <string name="answer03_3">red</string>
+    <string name="answer03_4">green</string>
+    <string name="answer_type03" translatable="false">rb</string>
+    <string name="right_answer03" translatable="false">2</string>
+    <string name="title04">The Bremen town musicians</string>
+    <string name="question04">What animals were on the picture?</string>
+    <string name="answer04_1">dog</string>
+    <string name="answer04_2">mouse</string>
+    <string name="answer04_3">cat</string>
+    <string name="answer04_4">rooster</string>
+    <string name="answer04_5">donkey</string>
+    <string name="answer04_6">wolf</string>
+    <string name="answer_type04" translatable="false">cb</string>
+    <string name="right_answer04" translatable="false">1345</string>
+    <string name="title05">Pippi Longstocking</string>
+    <string name="question05">What was wearing the girl on her head?</string>
+    <string name="answer05_1">cake</string>
+    <string name="answer05_2">cat</string>
+    <string name="answer05_3">hat</string>
+    <string name="answer05_4">hat with cake</string>
+    <string name="answer_type05" translatable="false">rb</string>
+    <string name="right_answer05" translatable="false">1</string>
+    <string name="title06">Evening in the variety</string>
+    <string name="question06">What color was the man\'s hat?</string>
+    <string name="answer06_1">brown</string>
+    <string name="answer06_2">red</string>
+    <string name="answer06_3">black</string>
+    <string name="answer06_4">green</string>
+    <string name="answer_type06" translatable="false">rb</string>
+    <string name="right_answer06" translatable="false">2</string>
+    <string name="title07">Marco Polo</string>
+    <string name="question07">What was the name of the ship?</string>
+    <string name="answer_type07" translatable="false">et</string>
+    <string name="right_answer07" translatable="false">Marco Polo</string>
+    <string name="title99">Who am I?</string>
+    <string name="question99">Who was on the picture?</string>
+    <string name="answer99_1">Franz Joseph I, Emperor of Austria</string>
+    <string name="answer99_2">Adolf Born, author of all these paintings</string>
+    <string name="answer99_3">Adolf Hitler, Führer of Germany</string>
+    <string name="answer99_4">Albert Einstein, physicist</string>
+    <string name="answer_type99" translatable="false">rb</string>
+    <string name="right_answer99" translatable="false">2</string>
+    <string name="credits">Adolf Born (1930-2016)</string>
+</resources>
